@@ -22,6 +22,9 @@ galaxy_info:
       versions:
         - 30
         - 31
+    - name: Amazon
+      versions:
+        - 2
   galaxy_tags:
     - monitoring
     - prometheus
